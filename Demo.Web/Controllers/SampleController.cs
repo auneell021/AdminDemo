@@ -11,6 +11,7 @@ namespace Demo.Web.Controllers
         // GET: Sample
         public ActionResult Dashboard()
         {
+            //This is for testing branch
             return View();
         }
     }
